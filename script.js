@@ -47,7 +47,8 @@ function playGame() {
         }
     }
 
-    alert("The final score is: You ${playerWins} - ${computerWins} Computer");
+    alert('The final score is: You ' + playerWins + ' - ' + computerWins + ' Computer');
 }
 
 playGame();
+
